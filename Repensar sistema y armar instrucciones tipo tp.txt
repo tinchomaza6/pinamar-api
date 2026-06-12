@@ -1,0 +1,3 @@
+Esta api era del tp para un sistema de liquidacion de sueldos.
+Al no tener instrucciones, crear unas nuevas. Revisar codigo para ver algo de logica.
+Dejarlo armado como un proyecto mas.
